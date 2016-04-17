@@ -1,0 +1,20 @@
+ body {
+ 	background: #333;
+ }
+
+
+ #canvas {
+ 	/*	background: #fff;*/	
+	   border: 3px solid silver;
+	   display: block;
+	   margin: 10px auto 0px;
+ }
+
+.nameGame {
+	color : #fff;
+
+	font-family : Courier;
+	font-weight: bold;
+	font-size: 24px;
+	text-align: center;
+}
